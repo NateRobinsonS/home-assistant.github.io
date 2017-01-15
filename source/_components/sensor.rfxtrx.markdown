@@ -56,10 +56,14 @@ sensor:
 ```
 Only these data_type are valid :
 - *Temperature*
+- *Chill*
 - *Humidity*
 - *Barometer*
 - *Wind direction*
+- *Wind gust*
+- *Wind average speed*
 - *Rain rate*
+- *Rain total*
 - *Energy usage*
 - *Total usage*
 - *Sound*

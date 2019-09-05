@@ -87,7 +87,7 @@ structure:
 
 ### Service `set_away_mode`
 
-You can use the service `nest/set_away_mode` to set the structure(s) to "Home" or "Away".
+You can use the service `nest.set_away_mode` to set the structure(s) to "Home" or "Away".
 
 | Service data attribute | Optional | Description |
 | ---------------------- | -------- | ----------- |

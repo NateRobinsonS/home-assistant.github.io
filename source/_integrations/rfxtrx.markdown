@@ -253,7 +253,7 @@ To delete device(s) from the configuration, select the delete button on the devi
 
 ## Events
 
-The RFXtrx integration will signal an event on the reception of messages from and RFXtrx device on the following form. For the signal to be available, the `fire_event` parameter must be set on the device in configuration.
+The RFXtrx integration will signal an event on the reception of messages from an RFXtrx device on the following form. For the signal to be available, the `fire_event` parameter must be set on the device in configuration.
 
 *Signal from a byron doorbell button:*
 

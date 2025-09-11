@@ -29,6 +29,12 @@ ha_dhcp: true
 ha_integration_type: integration
 ---
 
+| :exclamation:  Warning - TADO to require paid subscription for API  |
+|----------------------------------------------|
+| Starting in September, 2025, TADO has chosen to throttle the number of requests to their (cloud) API for users who do not pay for their "Auto Assist" subscription. If you have not yet purchased TADO equipment, please take this fact into consideration before deciding on the best HVAC control system for you. |
+
+## General information
+
 The Tado integration platform is used as an interface to the [my.tado.com](https://my.tado.com/) website.
 
 There is currently support for the following device types within Home Assistant:
